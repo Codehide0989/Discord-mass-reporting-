@@ -39,9 +39,9 @@ art ="""
                                    ██╔╝ ██╗    ██║     ███████╗╚██████╔╝██║   ██║   
                                    ╚═╝  ╚═╝    ╚═╝     ╚══════╝ ╚═════╝ ╚═╝   ╚═╝   
                                                   
-                                                  DEV BY  => @aizer.4ever
-                                                  GITHUB  => AxZeRxD
-                                                  YOUTUBE => @nukersop
+                                                  DEV BY  => @father.iso
+                                                  GITHUB  => father
+                                                  YOUTUBE => @father.iso
                                                   
                                   # Mass reporting should protect, not silence # \n\n
                                   """
